@@ -20,10 +20,6 @@ Our paper has been submitted to "IEEE Transactions on Instrumentation and Measur
 ```
 python test_seg.py
 ```
-##### Compute mertics on testing sets:
-```
-python compute_seg_mertic
-```
 # Reference
 
 ```
