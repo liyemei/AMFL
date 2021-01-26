@@ -20,6 +20,16 @@ Our paper has been submitted to "IEEE Transactions on Instrumentation and Measur
 ```
 python test_seg.py
 ```
+##### Compute mertics on testing sets::
+```
+python compute_seg_mertic
+```
+# Reference
+
+```
+Mei, L. , Yu, Y. , Weng, Y. , Guo, X. , Liu, Y. , & Wang, D. , et al. (2020). Adversarial multiscale feature learning for overlapping chromosome segmentation.
+
+```
 
 
 
