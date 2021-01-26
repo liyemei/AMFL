@@ -5,7 +5,7 @@ We provide several well-trained models for overlapping chromesome segmentation, 
 
 Our paper has been submitted to "IEEE Transactions on Instrumentation and Measuremen (TIM)", and the current status is: In Peer Review.
 
-# Prerequisites
+# Requirement
 - pytorch==1.5.0
 - scikit-image==0.14.2
 - numpy==1.19.5
