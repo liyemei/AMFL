@@ -11,7 +11,7 @@ Our paper has been submitted to "IEEE Transactions on Instrumentation and Measur
 - numpy==1.19.5
 - opencv=3.4.1
 # Usage
-#####  The dataset and trained models  are available:
+#####  The dataset and trained models  are available at:
 - Onedrive: https://1drv.ms/u/s!Al5H57YGuwVChRWDs1zuFHaA0n1H?e=jcrBe8
 - Baduidrive：https://pan.baidu.com/s/1_8-BVzW1vVqslkXL93tmUw password：069w 
 
