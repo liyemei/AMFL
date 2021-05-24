@@ -1,9 +1,9 @@
-# Adversarial Multiscale Features Learning for Overlapping Chromosome Segmentation 
-We provide several well-trained models for overlapping chromesome segmentation, and the average scores of various methods on eight metrics are shown in Table II
+# Overlapping Chromosome Segmentation using Adversarial Multiscale Feature Learning with Lovász-Softmax Loss 
+We provide several well-trained models for overlapping chromesome segmentation, and the average scores of various methods on eight metrics are shown in Table 2
 
 ![image](https://github.com/liyemei/AFML/blob/master/TableII.jpg)
 
-Our paper has been submitted to "IEEE Transactions on Instrumentation and Measuremen (TIM)", and the current status is: In Peer Review.
+
 
 # Requirements
 - pytorch==1.5.0
