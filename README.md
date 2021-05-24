@@ -23,7 +23,7 @@ python test_seg.py
 # Reference
 
 ```
-Mei, L. , Yu, Y. , Weng, Y. , Guo, X. , Liu, Y. , & Wang, D. , et al. (2020). Adversarial multiscale feature learning for overlapping chromosome segmentation.
+Mei, L. , Yu, Y. , Weng, Y. , Guo, X. , Liu, Y. , & Wang, D. , et al. (2021). Adversarial multiscale feature learning for overlapping chromosome segmentation.
 
 ```
 
