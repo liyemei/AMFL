@@ -52,9 +52,6 @@ else:
 
 device = torch.device("cuda:0" if train_on_gpu else "cpu")
 
-
-model_Inputs = [U_Net, R2U_Net, AttU_Net, R2AttU_Net, NestedUNet]
-
 print('===> Loading datasets')
 root_path = "dataset/overlap_chromosome/Cleaned_LowRes_13434_overlapping_pairs.h5"
 test_dataset =test_DataFromH5File(root_path,4 ,'test',0.2)
