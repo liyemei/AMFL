@@ -107,7 +107,7 @@ def test():
 if __name__ == '__main__' :  
         log_dir='checkpoint/model.pth'
         last_log='checkpoint/seq_last.pth'
-        best_log='checkpoint/seq_best.pth'
+      
         count=0
         if os.path.exists(log_dir):
 
