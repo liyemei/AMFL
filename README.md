@@ -20,10 +20,10 @@ We provide several well-trained models for overlapping chromesome segmentation, 
 ```
 python test_seg.py
 ```
-# Reference
+# Citation
 
 ```
-Liye Mei, Yalan Yu , Hui Shen , Yueyun Weng, Yan Liu, Du Wang, Sheng Liu, Fuling Zhou, Cheng Lei . Adversarial Multiscale Feature Learning Framework for Overlapping Chromosome Segmentation.Entropy.2022
+Mei, L., Yu, Y., Shen, H., Weng, Y., Liu, Y., Wang, D., ... & Lei, C. (2022). Adversarial Multiscale Feature Learning Framework for Overlapping Chromosome Segmentation. Entropy, 24(4), 522.
 
 ```
 
