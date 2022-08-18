@@ -116,8 +116,8 @@ def train(epoch,loss_type=None):
         real_ab = torch.cat((real_a,one_hot(gt_a)), 1)
         pred_real = netD.forward(real_ab.detach())
         
-        loss_d_real = torch.mean((real_ab - 1) ** 2)
-        loss_d_fake = torch.mean( pred_real ** 2)
+        loss_d_real = torch.mean((pred_real - 1) ** 2)
+        loss_d_fake = torch.mean(pred_fake ** 2)
         
         loss_d = (loss_d_fake + loss_d_real) * 0.5
 
